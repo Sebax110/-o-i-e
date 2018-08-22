@@ -192,45 +192,45 @@ bot.on ('ready', () => {
 
 bot.on('message', function (message) {
   if (message.content === '_çoçiçe') {
-  message.channel.send ("LA PUISSANCE DE LA ÇOÇIÇE !!", {files: ["./image/çcçc.jpg"]});
+  message.channel.send ("LA PUISSANCE DE LA ÇOÇIÇE !!", {files: ["./.gitignore/çcçc.jpg"]});
   }
 
 });
 
 bot.on('message', function (message) {
   if(message.content === '_yaoi') {
-    message.reply ("Content(e)", {files: ["./image/Lol.jpg"]});
+    message.reply ("Content(e)", {files: ["./.gitignore/Lol.jpg"]});
 
   }
 })
 
 bot.on('message', function (message) {
   if(message.content === '_KOXOB') {
-    message.reply ("Je pleure de joie !", {files: ["./image/KOXOBiN.gif"]});
+    message.reply ("Je pleure de joie !", {files: ["./.gitignore/KOXOBiN.gif"]});
   }
 });
 
 bot.on('message', function (message) {
   if(message.content === '_melenchon') {
-    message.reply ("Je pleure de joie !", {files: ["./image/melanchon.png"]});
+    message.reply ("Je pleure de joie !", {files: ["./.gitignore/melanchon.png"]});
   }
 });
 
 bot.on('message', function (message) {
   if(message.content === '_lol') {
-    message.channel.send ("HO MON DIEU !", {files: ["./image/54.png"]});
+    message.channel.send ("HO MON DIEU !", {files: ["./.gitignore/54.png"]});
   }
 })
 
 bot.on('message', function (message) {
   if(message.content === '_shutup') {
-    message.channel.send ("SHUT THE FUCK UP !", {files: ["./image/tenor-3.gif"]});
+    message.channel.send ("SHUT THE FUCK UP !", {files: ["./.gitignore/tenor-3.gif"]});
   }
 })
 
 bot.on('message', function (message) {
   if(message.content === '_yuri') {
-    message.channel.send ("Yuuuri (pour le pur de plaisir de Yuna)", {files: ["./image/images (13).jpg"]});
+    message.channel.send ("Yuuuri (pour le pur de plaisir de Yuna)", {files: ["./.gitignore/images (13).jpg"]});
   }
 
 })
